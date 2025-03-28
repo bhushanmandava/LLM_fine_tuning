@@ -1,4 +1,4 @@
-## README: Movie Sentiment Analysis with DistilBERT and LoRA
+##  Movie Sentiment Analysis with DistilBERT and LoRA
 
 ### Overview
 
