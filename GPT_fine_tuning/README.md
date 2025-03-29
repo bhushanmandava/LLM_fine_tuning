@@ -194,17 +194,3 @@ print(output['generated_text'])
 ---
 
 **Note:** Requires NVIDIA GPU with ≥12GB VRAM. For CPU-only usage, disable 4-bit quantization and use `device_map="cpu"`.
-```
-
-Citations:
-[1] https://pytorch.org/torchtune/0.5/tutorials/qlora_finetune.html
-[2] https://huggingface.co/papers/2310.08659
-[3] https://www.datacamp.com/tutorial/fine-tuning-llama-2
-[4] https://openreview.net/forum?id=LzPWWPAdY4
-[5] https://www.llama.com/docs/how-to-guides/fine-tuning/
-[6] https://hub.athina.ai/blogs/quantized-lora-fine-tuning-large-language-models-with-ease/
-[7] https://www.reddit.com/r/LocalLLaMA/comments/164aqbu/finetune_and_then_quantize_vs_quantize_and/
-[8] https://arxiv.org/abs/2310.08659
-
----
-Answer from Perplexity: pplx.ai/share
