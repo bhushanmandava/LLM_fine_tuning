@@ -1,5 +1,5 @@
-```markdown
 # Knowledge-Augmented LLaMA2 Fine-Tuning with LoRA & Quantization
+```markdown
 
 This repository demonstrates memory-efficient fine-tuning of LLaMA2 using **LoRA (Low-Rank Adaptation)** and **4-bit quantization** for medical domain adaptation. Based on [QLoRA techniques](https://arxiv.org/abs/2310.08659) and optimized with [Hugging Face PEFT](https://huggingface.co/docs/peft/en/index).
 
